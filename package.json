@@ -1,0 +1,9 @@
+{
+  "name": "australis-ui",
+  "title": "australis-ui",
+  "id": "australis-ui@canuckistani.ca",
+  "description": "An example of how to use the new UI modules available in Firefox 29",
+  "author": "Jeff Griffiths ( @canuckistani )",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}

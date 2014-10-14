@@ -1,9 +1,11 @@
 {
   "name": "australis-ui",
-  "title": "australis-ui",
+  "title": "Australis UI Example",
   "id": "australis-ui@canuckistani.ca",
-  "description": "An example of how to use the new UI modules available in Firefox 29",
+  "version": "0.0.1",
+  "description": "An example of how to use the new UI modules available in Firefox 29. An example of how to use the new UI modules available in Firefox 29. An example of how to use the new UI modules available in Firefox 29. An example of how to use the new UI modules available in Firefox 29. An example of how to use the new UI modules available in Firefox 29. An example of how to use the new UI modules available in Firefox 29. An example of how to use the new UI modules available in Firefox 29. An example of how to use the new UI modules available in Firefox 29. An example of how to use the new UI modules available in Firefox 29. An example of how to use the new UI modules available in Firefox 29. An example of how to use the new UI modules available in Firefox 29.",
   "author": "Jeff Griffiths ( @canuckistani )",
   "license": "MPL 2.0",
-  "version": "0.1"
+  "version": "0.0.1",
+  "main": "lib/main"
 }

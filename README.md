@@ -1,6 +1,6 @@
 # Add-on SDK Example: Australis UI APIs
 
-This is a *very* simple add-on that includes working implementations of the new ActionButton, ToggleButton and Toolbar apis.
+This is a *very* simple add-on that includes working implementations of the new ActionButton, ToggleButton and Toolbar apis. This add-on depends on SDK 1.16 ([upcoming SDK](https://github.com/mozilla/addon-sdk)).
 
 For more information, check out the docs on MDN:
 
